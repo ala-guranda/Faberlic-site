@@ -166,7 +166,7 @@ aside a {
 }
 #tabel-carti {
     border: 3px solid rgb(65, 62, 62);
-    margin-left: auto; margin-right: auto;
+    margin-right: auto;
     border-radius: 10px;
     border-spacing: 6px;
     background: linear-gradient(rgba(182, 199, 182, 0.589), rgb(99, 133, 99))}
@@ -181,7 +181,7 @@ aside a {
 #tabel-carti tr:first-child {
         background-color: rgb(164, 199, 180);
     }
-    #tabel-carti td:last-child {
+#tabel-carti td:last-child {
         border: none;
     }
 .contact-list {
